@@ -24,13 +24,15 @@ This theme is a partial porting of the [Learn theme of matcornic {{%icon fa-gith
 * [Icons]({{%relref "shortcodes/icon.md" %}}), [Buttons]({{%relref "shortcodes/button.md" %}}), [Alerts]({{%relref "shortcodes/alert.md" %}}), [Panels]({{%relref "shortcodes/panel.md" %}}), [Tip/Note/Info/Warning boxes]({{%relref "shortcodes/notice.md" %}}), [Expand]({{%relref "shortcodes/expand.md" %}})
 * [customizable look and feel]({{%relref "content-organisation/customize-style/_index.md"%}}), [theme style]({{%relref "content-organisation/customize-style/themestyle.md"%}}), [theme variants]({{%relref "content-organisation/customize-style/theme-variants.md"%}})
 
+### Layouts styles
 
+This theme comes with two distinctive layout styles: Flex and Original. The main documentation is built with **Flex**, though available also in **[Original style](/original)**
 
-Style "Flex" (default)
+#### Style "Flex" (default)
 
 ![](style-flex.png?classes=border,shadow)
 
-Style "Original"
+#### Style "Original"
 
 ![](style-original.png?classes=border,shadow)
 
